@@ -1,0 +1,94 @@
+/*******************************TAG SELECTORS******************************/
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+h4 {
+  clear: right;
+}
+
+/*******************************CLASS SELECTORS******************************/
+.intro {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  width: 25%;
+  margin: auto;
+}
+
+.maindiv {
+  width: 80%;
+  margin: auto;
+  position: relative;
+  bottom: 50px;
+}
+
+.divs {
+  position: relative;
+  width: 23%;
+  height: 200px;
+  border: solid;
+  border-width: 2px 0 0 0;
+  border-radius: 3px;
+  margin-bottom: 20px;
+  padding: 5px 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.div1 {
+  margin: auto;
+  border-color: hsl(0, 78%, 62%);
+  position: relative;
+  top: 90px;
+}
+
+.div2 {
+  border-color: hsl(180, 62%, 55%);
+  position: relative;
+  left: 70px;
+}
+
+.div3 {
+  margin: auto;
+  border-color: hsl(34, 97%, 64%);
+  position: relative;
+  bottom: 115px;
+}
+
+.div4 {
+  float: right;
+  border-color: hsl(212, 86%, 64%);
+  position: relative;
+  bottom: 440px;
+  right: 70px;
+}
+
+.img {
+  position: absolute;
+  right: 15px;
+  bottom: 15px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution1 {
+  font-size: 10px;
+  text-align: left;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.hullo {
+  font-size: 11px;
+  text-align: center;
+  padding-left: 473px;
+}
+
+.hullo a {
+  color: hsl(228, 45%, 44%);
+}
